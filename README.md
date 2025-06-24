@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/mimadraza](github.com/mimadraza)
 
-- 💬 Ask me about **Computational thinking, Optimisation problems**
+- 💬 Ask me about **Computational thinking, Optimization problems**
 
 - 📫 How to reach me **m.imadraza@gmail.com**
 
